@@ -8,13 +8,9 @@ Re-open the program using the .bat file and it /should/ work.
 If you change the install location of SFM or Steam, delete the "Paths.txt" file (which will only be there after setup)
 
 --------------------------------------------------------------------------------
-Planned feutures: (Who knows when I will bother doing them)
--Auto detection for default-installed Steam and SFM.
--Auto-restart after first-time setup.
--Maybe an actual UI.
+The text above is written by younger me. Am still not fixing the bug cuz it is a 1-time thing.
 
---------------------------------------------------------------------------------
 Am not really touching this much anymore.
 Did so to just to add "open SFM game folder" option.
 Have started making things, adding things, modifying things, etc, so, is useful.
-And this should be the last update I will do to this.
+And this should be the last update I will do to this... Although, to you, it will look like first upload.
