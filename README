@@ -1,0 +1,20 @@
+You use the .bat file to lanch it wit.
+First time setup will ask you to insert your Steam install folder manually.
+It will also ask you for your SFM/game folder. (For those who have Portal SFM, choose SFM/game2)
+
+After inserting all the information, the program will close. Is late and don't wanna bother fixing it right now, aaaaaa.
+Re-open the program using the .bat file and it /should/ work.
+
+If you change the install location of SFM or Steam, delete the "Paths.txt" file (which will only be there after setup)
+
+--------------------------------------------------------------------------------
+Planned feutures: (Who knows when I will bother doing them)
+-Auto detection for default-installed Steam and SFM.
+-Auto-restart after first-time setup.
+-Maybe an actual UI.
+
+--------------------------------------------------------------------------------
+Am not really touching this much anymore.
+Did so to just to add "open SFM game folder" option.
+Have started making things, adding things, modifying things, etc, so, is useful.
+And this should be the last update I will do to this.
